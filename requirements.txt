@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+statsmodels
+yfinance
+requests
+joblib
+openpyxl
